@@ -10,7 +10,8 @@
   <body>
 
     <div><h2> Login </h2></div>
-    <form method="POST" action="" name="form">
+    <h3> Add Username and Password to login </h3>
+   <form method="POST" action="" name="form">
       <div>
         Name  <input type="text" name="fname" id="fname" value="" required>
         Email <input type="text" name="email" id="email" value="" required>
