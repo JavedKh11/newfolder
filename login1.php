@@ -10,7 +10,7 @@
   <body>
 
     <div><h2> Login </h2></div>
-   
+    <h2>Add Username and Password</h2>
     <form method="POST" action="" name="form">
       <div>
         Name  <input type="text" name="fname" id="fname" value="" required>
