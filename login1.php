@@ -18,6 +18,7 @@
         <br><br>
 
         <input class="submit" type="submit" name="submit" id="btn1">
+        <input type="reset name="Reset" value="Reset">
       </div>
     </form>
   </body>
