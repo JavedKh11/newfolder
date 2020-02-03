@@ -9,7 +9,7 @@
   </head>
 
   <body>
-    <div>
+   
       <div><h2> Login </h2></div>
       <h2>Add Username and Password</h2>
       <form method="POST" action="" name="form">
@@ -35,7 +35,7 @@
           <input type="reset name="Reset" value="Reset">
         </div>
       </form>
-    </div>
+    
   </body>
 </html>
     
