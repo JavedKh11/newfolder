@@ -9,20 +9,21 @@
   </head>
 
   <body>
+    <div>
+      <div><h2> Login </h2></div>
+      <h2>Add Username and Password</h2>
+      <form method="POST" action="" name="form">
+        <div>
+          Name  <input type="text" name="fname" id="fname" value="" required><br><br>
+          Password <input type="password" name="password" id="password" value="" required><br>
+          <a href = "" >Forgot Password!</a>
+          <br><br>
 
-    <div><h2> Login </h2></div>
-    <h2>Add Username and Password</h2>
-    <form method="POST" action="" name="form">
-      <div>
-        Name  <input type="text" name="fname" id="fname" value="" required><br><br>
-        Password <input type="password" name="password" id="password" value="" required><br>
-        <a href = "" >Forgot Password!</a>
-        <br><br>
-
-        <input class="submit" type="submit" name="submit" id="btn1">
-        <input type="reset name="Reset" value="Reset">
-      </div>
-    </form>
+          <input class="submit" type="submit" name="submit" id="btn1">
+          <input type="reset name="Reset" value="Reset">
+        </div>
+      </form>
+    </div>
   </body>
 </html>
     
