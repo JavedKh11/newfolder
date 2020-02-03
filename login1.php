@@ -16,7 +16,7 @@
       <div>
         Name  <input type="text" name="fname" id="fname" value="" required><br><br>
         Password <input type="password" name="password" id="password" value="" required><br>
-        <a href = "" >Forgot Password</a>
+        <a href = "" >Forgot Password!</a>
         <br><br>
 
         <input class="submit" type="submit" name="submit" id="btn1">
