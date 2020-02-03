@@ -15,7 +15,7 @@
     <form method="POST" action="" name="form">
       <div>
         Name  <input type="text" name="fname" id="fname" value="" required>
-        Email <input type="text" name="email" id="email" value="" required>
+        Password <input type="password" name="password" id="password" value="" required>
         <br><br>
 
         <input class="submit" type="submit" name="submit" id="btn1">
